@@ -15,10 +15,24 @@ GPU. See `questions.md` for the concept check that is still unclear.
 
 ## Commands and tools
 
-Record commands you used and what each one does. Do not include secrets.
+- `uv --version`, `git --version`, `python3 --version`, and `node --version` check tool versions.
+- `uv venv` creates a project virtual environment. The existing `.venv` was used.
+- `.venv/bin/python -c 'import sys; print(sys.executable)'` confirmed the interpreter path is inside `.venv`.
+- `uv pip install --python .venv/bin/python numpy` installs NumPy into that environment.
+- NumPy's `np.dot([1, 2, 3], [1, 2, 3])` computes `1×1 + 2×2 + 3×3 = 14`; a plain Python loop can compute the same result one pair at a time.
+
+Scratch version of the dot product:
+
+```python
+values = [1, 2, 3]
+total = 0
+for x in values:
+    total += x * x
+print(total)  # 14
+```
 
 ## Questions
 
 - See [questions.md](questions.md) for questions asked during this lesson and
-  answers that are not known yet.
+  answers to revisit and lesson work deferred for later.
 
