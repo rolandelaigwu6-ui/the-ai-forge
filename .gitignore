@@ -1,0 +1,4 @@
+# Model checkpoints are generated artifacts, not source files.
+*.pt
+*.pth
+*.safetensors
