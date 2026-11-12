@@ -38,6 +38,7 @@ I am learning AI engineering to become a good AI native engineer and cyber secur
 ## Progress log
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
+| 2026-11-12 | 00/02 Git & Collaboration (detour) | Deferred; not taken | Created and pushed `my-progress`, added checkpoint ignore patterns, and reviewed Git history. Revisit branch-vs-push and checkpoint-size questions in the lesson log. Phase 0 Lesson 01 remains pending. |
 
 ## Review queue
 <empty for now; learn adds lessons the quizzes flag>
