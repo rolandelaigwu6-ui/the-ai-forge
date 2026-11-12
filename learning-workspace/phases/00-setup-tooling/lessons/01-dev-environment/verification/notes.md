@@ -20,6 +20,9 @@ GPU. See `questions.md` for the concept check that is still unclear.
 - `.venv/bin/python -c 'import sys; print(sys.executable)'` confirmed the interpreter path is inside `.venv`.
 - `uv pip install --python .venv/bin/python numpy` installs NumPy into that environment.
 - NumPy's `np.dot([1, 2, 3], [1, 2, 3])` computes `1×1 + 2×2 + 3×3 = 14`; a plain Python loop can compute the same result one pair at a time.
+- Python and TypeScript hello-world files are in `../exercises/`. Python ran with `python3`; TypeScript ran with Node.js 24's built-in type stripping and was checked with `tsc --noEmit`.
+- Rust and Julia toolchains are absent in this environment, so those two examples remain deferred. Julia is optional for this lesson; Rust is used in later systems lessons.
+- Node.js can run `.ts` files with erasable TypeScript syntax; the built-in type stripping does not type-check, so `tsc --noEmit` was also run. See the [official Node.js TypeScript docs](https://nodejs.org/api/typescript.html).
 
 Scratch version of the dot product:
 

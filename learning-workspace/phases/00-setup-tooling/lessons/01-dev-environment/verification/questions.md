@@ -16,5 +16,5 @@ what needs another explanation.
 - Run the lesson's route verification script from a full curriculum checkout; that script is not present in this learning workspace.
 - Finish the Python setup: install PyTorch in `.venv` (CPU is fine here), then verify its version and GPU availability.
 - Install the remaining Python lesson packages (`matplotlib` and `jupyter`) if needed for later examples.
-- Write and run a hello-world program in Python, TypeScript, Rust, and Julia. Rust and Julia are not currently installed.
+- Write and run a Rust and Julia hello-world when those toolchains are installed. They are not available in this environment (`rustc`, `cargo`, and `julia` are missing); Python and TypeScript hello-worlds are complete in `../exercises/`.
 - Take the three post-lesson quiz questions. The quiz has not been taken, so no score is recorded and the lesson remains in progress.

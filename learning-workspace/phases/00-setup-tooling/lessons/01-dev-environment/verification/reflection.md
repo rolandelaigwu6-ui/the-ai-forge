@@ -14,3 +14,10 @@ one another and that a virtual environment keeps project packages separate.
 The interactive concept checks and the remaining setup exercise are recorded
 in `questions.md` for later review.
 
+## Follow-up (2026-11-12)
+
+Completed the hello-world part in the installed languages: Python and TypeScript.
+Rust and Julia are not installed in this environment, so their examples are
+deferred until those toolchains are available. See `../exercises/` for the two
+programs and `questions.md` for the remaining lesson work.
+
