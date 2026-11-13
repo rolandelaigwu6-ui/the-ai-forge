@@ -38,7 +38,9 @@ I am learning AI engineering to become a good AI native engineer and cyber secur
 ## Progress log
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
-| 2026-11-12 | 00/02 Git & Collaboration (detour) | Deferred; not taken | Created and pushed `my-progress`, added checkpoint ignore patterns, and reviewed Git history. Revisit branch-vs-push and checkpoint-size questions in the lesson log. Phase 0 Lesson 01 remains pending. |
+| 2026-11-13 | 00/01 Dev Environment | 2/3 | Completed Python and TypeScript hello-worlds. Missed the bottom-up layer order; added it to Review. PyTorch, route verification, Rust/Julia examples, and the rest of the setup remain pending. Lesson 02's partial detour is recorded in its folder and should be resumed next. |
 
 ## Review queue
-<empty for now; learn adds lessons the quizzes flag>
+| Lesson | Topic |
+|--------|-------|
+| 00/01 Dev Environment | Install bottom-up: system foundation, package managers, language runtimes, then AI/ML libraries. |

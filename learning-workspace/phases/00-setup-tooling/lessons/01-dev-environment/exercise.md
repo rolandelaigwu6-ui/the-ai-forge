@@ -24,5 +24,5 @@ Hello-world evidence: both `python3 exercises/hello.py` and `node exercises/hell
 
 ## Result
 
-Python, Node.js, TypeScript, Git, `uv`, the existing virtual environment, the NumPy vector example, and the available-language hello-world programs work. CPU use is available; no NVIDIA GPU was detected. Rust and Julia examples, remaining setup, and the quiz are listed in `verification/questions.md`.
+Python, Node.js, TypeScript, Git, `uv`, the existing virtual environment, the NumPy vector example, and the available-language hello-world programs work. CPU use is available; no NVIDIA GPU was detected. The quiz score is 2/3. Rust and Julia examples and remaining setup are listed in `verification/questions.md`.
 

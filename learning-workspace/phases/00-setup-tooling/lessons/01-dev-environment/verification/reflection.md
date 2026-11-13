@@ -21,3 +21,9 @@ Rust and Julia are not installed in this environment, so their examples are
 deferred until those toolchains are available. See `../exercises/` for the two
 programs and `questions.md` for the remaining lesson work.
 
+## Quiz (2026-11-13)
+
+Score: 2/3. Review the order of the four environment layers: system foundation,
+package managers, language runtimes, then AI/ML libraries. The other setup
+tasks remain pending.
+
