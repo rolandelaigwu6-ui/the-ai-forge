@@ -14,8 +14,11 @@ what needs another explanation.
 ## Finish later
 
 - Revisit the three concept questions above and explain the answers in your own words.
-- Run the lesson's route verification script from a full curriculum checkout; that script is not present in this learning workspace.
-- Finish the Python setup: install PyTorch in `.venv` (CPU is fine here), then verify its version and GPU availability.
-- Install the remaining Python lesson packages (`matplotlib` and `jupyter`) if needed for later examples.
-- Write and run a Rust and Julia hello-world when those toolchains are installed. They are not available in this environment (`rustc`, `cargo`, and `julia` are missing); Python and TypeScript hello-worlds are complete in `../exercises/`.
-- The post-lesson quiz is complete: 2/3. The missed layer-order question is in the Review queue. Other environment setup tasks remain pending.
+- Julia remains optional and deferred; its toolchain is not installed.
+
+## Completed on 2026-11-16
+
+- Installed PyTorch CPU 2.9.1, Matplotlib 3.11.2, and Jupyter 1.1.1 in `.venv` and confirmed imports and the CPU-only backend.
+- Installed Rust 1.100.0, compiled `../exercises/hello.rs`, and ran it successfully.
+- Ran the official route verification script from a shallow curriculum checkout with `--route beginner --show-later`; both required checks passed. All optional checks passed except optional Julia, which remains deferred.
+- Post-lesson quiz score is 2/3. Review the layer order: system foundation, package managers, language runtimes, then AI/ML libraries. The missed question remains in the Review queue until the learner confirms recall.

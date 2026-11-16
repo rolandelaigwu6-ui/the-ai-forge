@@ -14,7 +14,7 @@ I am learning AI engineering to become a good AI native engineer and cyber secur
 ## Path
 | Phase | Name | Status | Est. hours |
 |-------|------|--------|------------|
-| 0 | Setup & Tooling | Do | 16 |
+| 0 | Setup & Tooling | Done | 16 |
 | 1 | Math Foundations | Do | 23 |
 | 2 | ML Fundamentals | Do | 26 |
 | 3 | Deep Learning Core | Do | 15 |
@@ -38,9 +38,11 @@ I am learning AI engineering to become a good AI native engineer and cyber secur
 ## Progress log
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
-| 2026-11-13 | 00/01 Dev Environment | 2/3 | Completed Python and TypeScript hello-worlds. Missed the bottom-up layer order; added it to Review. PyTorch, route verification, Rust/Julia examples, and the rest of the setup remain pending. Lesson 02's partial detour is recorded in its folder and should be resumed next. |
+| 2026-11-13 | 00/01 Dev Environment | 2/3 | Completed Python and TypeScript hello-worlds. Missed bottom-up layer order; added it to Review. On 2026-11-16 installed and verified CPU-only PyTorch, Matplotlib, Jupyter, and Rust; the official beginner route preflight passed 2/2 required checks. Julia is optional. |
+| 2026-11-16 | 00/02 Git & Collaboration | 2/3 | Correctly identified that pushing updates `origin/my-progress`, large checkpoints can bloat repository history, and the newest commit is at the top. Review that `git add` stages selected changes; `git commit` saves a local snapshot. |
 
 ## Review queue
 | Lesson | Topic |
 |--------|-------|
 | 00/01 Dev Environment | Install bottom-up: system foundation, package managers, language runtimes, then AI/ML libraries. |
+| 00/02 Git & Collaboration | Distinguish `git add` (stage selected changes), `git commit` (save a local snapshot), and `git push` (publish commits). |

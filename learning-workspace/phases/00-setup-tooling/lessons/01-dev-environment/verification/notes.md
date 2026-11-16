@@ -21,7 +21,8 @@ GPU. See `questions.md` for the concept check that is still unclear.
 - `uv pip install --python .venv/bin/python numpy` installs NumPy into that environment.
 - NumPy's `np.dot([1, 2, 3], [1, 2, 3])` computes `1×1 + 2×2 + 3×3 = 14`; a plain Python loop can compute the same result one pair at a time.
 - Python and TypeScript hello-world files are in `../exercises/`. Python ran with `python3`; TypeScript ran with Node.js 24's built-in type stripping and was checked with `tsc --noEmit`.
-- Rust and Julia toolchains are absent in this environment, so those two examples remain deferred. Julia is optional for this lesson; Rust is used in later systems lessons.
+- At the time of the original session, Rust and Julia toolchains were absent, so those examples were deferred. Julia is optional for this lesson; Rust is used in later systems lessons.
+- Update (2026-11-16): Rust 1.100.0 is now installed and `exercises/hello.rs` compiles and runs. CPU-only PyTorch 2.9.1, Matplotlib 3.11.2, and Jupyter 1.1.1 are installed in `.venv`; route preflight passed all required beginner checks. Julia remains optional and absent.
 - Node.js can run `.ts` files with erasable TypeScript syntax; the built-in type stripping does not type-check, so `tsc --noEmit` was also run. See the [official Node.js TypeScript docs](https://nodejs.org/api/typescript.html).
 
 Scratch version of the dot product:

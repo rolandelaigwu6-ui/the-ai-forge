@@ -24,6 +24,12 @@ programs and `questions.md` for the remaining lesson work.
 ## Quiz (2026-11-13)
 
 Score: 2/3. Review the order of the four environment layers: system foundation,
-package managers, language runtimes, then AI/ML libraries. The other setup
-tasks remain pending.
+package managers, language runtimes, then AI/ML libraries.
+
+## Setup completion (2026-11-16)
+
+Installed CPU-only PyTorch, Matplotlib, Jupyter, and Rust; compiled and ran the
+Rust hello-world. Ran the official beginner route verification with all
+required checks passing. Julia is optional. The quiz score remains 2/3, with
+the missed layer-order concept retained in the Review queue.
 

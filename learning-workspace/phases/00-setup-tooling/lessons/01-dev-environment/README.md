@@ -9,6 +9,6 @@ Use these files as you work through the lesson:
 - [Reflection](verification/reflection.md)
 - [Questions and deferred work](verification/questions.md)
 
-Supporting programs are in `exercises/`. Python and TypeScript are available
-in this environment; Rust and Julia are deferred because their toolchains are
-not installed. Never include API keys, tokens, or other secrets.
+Supporting programs are in `exercises/`. Python, TypeScript, and Rust are
+available in this environment. Julia remains optional. Never include API
+keys, tokens, or other secrets.
