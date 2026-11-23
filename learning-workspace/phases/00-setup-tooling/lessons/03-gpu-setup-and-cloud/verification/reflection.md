@@ -1,6 +1,6 @@
 # Reflection: GPU and Cloud Setup
 
-Complete these after the verification exercise:
+## Reflection prompts (optional if revisiting)
 
 - What cloud machine and GPU did I use?
 - Which parts of the software stack had to agree for my framework to use the
@@ -10,9 +10,9 @@ Complete these after the verification exercise:
 - What did I do to stop or delete the cloud resource?
 - What is still unclear, and what will I try next?
 
-## Session note — 2026-11-18
+## Session note — 2026-11-23
 
-I explored GPU and cloud setup and am continuing to investigate it. I learned
-to treat GPU access as a chain of dependencies involving the machine, drivers,
-runtime, framework, and workload. I have not yet added machine-specific
-verification evidence to this lesson, so I am keeping it in progress.
+I learned to treat GPU access as a chain of dependencies involving the
+machine, drivers, runtime, framework, and workload. I reported completing my
+GPU and cloud setup and chose to close this lesson to advance. Machine-specific
+verification evidence was not added to this workspace.

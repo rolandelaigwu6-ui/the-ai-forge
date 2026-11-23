@@ -5,4 +5,5 @@ Work through these lesson folders in order, following the Phase 0 lessons in the
 ## Lesson workspace
 
 - [01 — Dev Environment](lessons/01-dev-environment/README.md)
-- [02 — GPU and Cloud Setup](lessons/02-gpu-cloud-setup/README.md) — in progress
+- [02 — Git & Collaboration](lessons/02-git-and-collaboration/README.md) — next
+- [03 — GPU Setup & Cloud](lessons/03-gpu-setup-and-cloud/README.md) — closed

@@ -19,5 +19,5 @@ Output: Python 3.14.8; NumPy 2.5.4; vector `[1 2 3]`; dot product `14`.
 
 ## Result
 
-Python, Node.js, Git, `uv`, the existing virtual environment, and the NumPy vector example work. CPU use is available; no NVIDIA GPU was detected. Remaining exercise steps are listed in `verification/questions.md`.
+Python, Node.js, Git, `uv`, the existing virtual environment, and the NumPy vector example were verified in this environment. The session was closed by learner decision on 2026-11-23 to move on. Optional environment follow-ups are listed in `verification/questions.md`; they are not recorded as completed.
 

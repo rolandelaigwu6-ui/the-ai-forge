@@ -9,8 +9,8 @@ After completing the lesson, reflect briefly:
 
 ## Session note (2026-11-09)
 
-This lesson is still in progress. I learned that environment layers depend on
-one another and that a virtual environment keeps project packages separate.
-The interactive concept checks and the remaining setup exercise are recorded
-in `questions.md` for later review.
+I learned that environment layers depend on one another and that a virtual
+environment keeps project packages separate. I closed this lesson on
+2026-11-23 to move on. Follow-up checks are recorded in `questions.md` and
+were not verified as complete.
 
