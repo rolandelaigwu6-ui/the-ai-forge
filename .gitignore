@@ -2,3 +2,8 @@
 *.pt
 *.pth
 *.safetensors
+
+# Local secrets. Keep the safe template tracked.
+.env
+.env.*
+!.env.example

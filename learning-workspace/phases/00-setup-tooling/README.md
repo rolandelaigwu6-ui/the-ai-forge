@@ -7,4 +7,4 @@ Work through these lesson folders in order, following the Phase 0 lessons in the
 - [01 — Dev Environment](lessons/01-dev-environment/README.md)
 - [02 — Git & Collaboration](lessons/02-git-and-collaboration/README.md) — closed
 - [03 — GPU Setup & Cloud](lessons/03-gpu-setup-and-cloud/README.md) — closed
-- [04 — APIs & Keys](lessons/04-apis-and-keys/README.md) — next
+- [04 — APIs & Keys](lessons/04-apis-and-keys/README.md) — in progress

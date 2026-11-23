@@ -6,7 +6,7 @@
 I am learning AI engineering to become a good AI native engineer and cyber security engineer. By the end, I want to build an agent and a model for cyber red teaming.
 
 ## Current focus
-Phase 0, Lesson 04 — APIs & Keys (next; ready to start).
+Phase 0, Lesson 04 — APIs & Keys (local preparation done; live request and quiz pending a learner key and answers).
 
 ## Placement
 - Date: 2026-11-05  
@@ -44,6 +44,7 @@ Phase 0, Lesson 04 — APIs & Keys (next; ready to start).
 | 2026-11-13 | Phase 0 / 01 — Dev Environment | 2/3 | Completed Python and TypeScript hello-worlds. Missed bottom-up layer order; added it to Review. On 2026-11-16 installed and verified CPU-only PyTorch, Matplotlib, Jupyter, and Rust; the official beginner route preflight passed 2/2 required checks. Julia is optional. |
 | 2026-11-16 | Phase 0 / 02 — Git & Collaboration | 2/3 | Identified branch push and history concepts; review `git add` (stage), `git commit` (save locally), and `git push` (publish). Practical branch, ignore, and history exercises are recorded as completed with agent assistance. |
 | 2026-11-23 | Phase 0 / 03 — GPU Setup & Cloud | Learner-reported completion | Recorded GPU and cloud concepts and reported completing setup. Machine-specific benchmark evidence was not supplied. |
+| 2026-11-23 | Phase 0 / 04 — APIs & Keys | Not taken | Installed Anthropic SDK 2.13.0 in the existing `.venv`; Python example compiled, TypeScript mock ran, and `.env` ignore behavior was checked. No API key is configured, so no external request was sent; live response comparison and quiz remain. Reused `my-progress` and the existing checkpoint rules. |
 
 ## Review queue
 | Lesson | Topic |
