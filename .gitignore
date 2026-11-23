@@ -1,0 +1,4 @@
+# Model checkpoint files; keep large generated weights out of Git.
+*.pt
+*.pth
+*.safetensors

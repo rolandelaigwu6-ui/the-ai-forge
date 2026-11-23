@@ -6,7 +6,7 @@
 I am learning AI engineering to become a good AI native engineer and cyber security engineer. By the end, I want to build an agent and a model for cyber red teaming.
 
 ## Current focus
-Phase 0, Lesson 02 — Git & Collaboration (next; ready to start).
+Phase 0, Lesson 04 — APIs & Keys (next; ready to start).
 
 ## Placement
 - Date: 2026-11-05  
@@ -42,6 +42,7 @@ Phase 0, Lesson 02 — Git & Collaboration (next; ready to start).
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
 | 2026-11-09 | Phase 0 / 01 — Dev Environment | Not taken | Checked the toolchain, used the existing virtual environment, and ran the NumPy dot-product example. Closed by learner decision to move on; follow-up environment checks were not recorded. |
+| 2026-11-23 | Phase 0 / 02 — Git & Collaboration | Skipped at learner request | Repository exercises completed with agent assistance: created and pushed `my-progress`, added and verified checkpoint ignore rules, saved this exercise record, and inspected commit history. Closed to advance; quiz answers were not supplied. |
 | 2026-11-23 | Phase 0 / 03 — GPU Setup & Cloud | Not taken | Learner reports completing GPU/cloud setup and recorded the core concepts. Closed to advance; machine-specific benchmark evidence was not recorded. |
 
 ## Review queue
