@@ -1,7 +1,7 @@
 # GPU and Cloud Setup — Learning Log
 
 **Started:** 2026-11-18
-**Status:** Closed by learner decision on 2026-11-23
+**Status:** Completed per learner report on 2026-11-23
 
 ## What I learned
 
@@ -36,5 +36,5 @@ want to verify each layer instead of treating “GPU enabled” as a single swit
 
 I captured my understanding in [note.md](note.md): a GPU handles many math
 operations in parallel, and cloud computing lets me rent access to that
-hardware online. I chose to close the lesson and move on; machine-specific
-checks and a verified workload were not recorded here.
+hardware online. The learner reports completing the setup; machine-specific
+checks and a benchmark were not recorded in this workspace.

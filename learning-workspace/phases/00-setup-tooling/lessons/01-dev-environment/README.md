@@ -2,12 +2,15 @@
 
 Curriculum lesson: Phase 0, 01.
 
-**Status:** Closed by learner decision to move on (2026-11-23).
+**Status:** Completed (quiz 2/3; review item recorded).
 
 Use these files as you work through the lesson:
 
-- [Notes](notes.md)
+- [Notes](verification/notes.md)
 - [Exercise](exercise.md)
-- [Reflection](reflection.md)
+- [Reflection](verification/reflection.md)
+- [Questions and deferred work](verification/questions.md)
 
-Put any supporting exercise files in `exercises/`. Never include API keys, tokens, or other secrets.
+Supporting programs are in `exercises/`. Python, TypeScript, and Rust are
+available in this environment. Julia remains optional. Never include API
+keys, tokens, or other secrets.

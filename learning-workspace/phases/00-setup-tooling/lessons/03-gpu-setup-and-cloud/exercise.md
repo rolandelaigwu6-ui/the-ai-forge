@@ -1,14 +1,14 @@
 # Exercise: GPU and Cloud Setup
 
-**Status:** Closed by learner decision on 2026-11-23; setup completion reported by learner.
+**Status:** Completed per learner report on 2026-11-23.
 
 ## What I did
 
 - Completed GPU and cloud setup (learner report; provider and machine details were not supplied).
 - Learned that a GPU can run many simple math operations at once and that a
   cloud service can rent GPU compute over the internet.
-- I am continuing to learn how to verify that software can use the selected
-  compute device.
+- Framework-level GPU detection and a measured workload were not recorded in
+  this workspace.
 
 ## Evidence available
 

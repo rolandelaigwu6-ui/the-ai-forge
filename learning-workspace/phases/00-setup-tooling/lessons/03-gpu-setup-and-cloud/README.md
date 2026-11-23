@@ -1,11 +1,11 @@
 # GPU and Cloud Setup
 
 **Curriculum:** Phase 0, Lesson 03
-**Status:** Closed by learner decision (2026-11-23)
+**Status:** Completed per learner report (2026-11-23)
 
-I reported completing GPU and cloud setup and recorded the core concepts. I
-closed this lesson to move on. The workspace does not contain machine-specific
-details or benchmark output, so it does not claim those were verified.
+I reported completing GPU and cloud setup and recorded the core concepts. The
+workspace does not contain machine-specific details or benchmark output, so it
+does not claim those were verified.
 
 ## Lesson files
 

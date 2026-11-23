@@ -14,5 +14,5 @@
 
 I learned to treat GPU access as a chain of dependencies involving the
 machine, drivers, runtime, framework, and workload. I reported completing my
-GPU and cloud setup and chose to close this lesson to advance. Machine-specific
-verification evidence was not added to this workspace.
+GPU and cloud setup. Machine-specific verification evidence was not added to
+this workspace.
